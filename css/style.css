@@ -42,12 +42,36 @@
     font-display: swap;
 }
 
+
+@font-face {
+    font-family: "Normaliq";
+    src: url(../fonts/Normaliq-Regular.woff2) format("woff2"),
+    url(../fonts/Normaliq-Regular.woff) format("woff");
+    font-weight: regular;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 h1 {
-    font-family: "Playfair", serif;
+    font-family: "Playfair Display", serif;
     font-size: 30px;
     line-height: 1.4;
     font-weight: 800;
-    color: #4092a5;
+    color: #51392d;
     text-transform: uppercase;
     text-align: center;
 }
