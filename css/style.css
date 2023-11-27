@@ -176,3 +176,47 @@ p {
     line-height: 1.47;
 }
 
+.plan * {
+    font-family: "Normaliq", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.4;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+span {
+    color: #3eb0d2;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.bullet {
+    color: #589dbc;
+}
+
+.bullet + li {
+    color: #2b617b;
+}
+
+.whisker + li {
+    color:#c18688;
+}
+
+.kitten + li {
+    color: #81ddd8;
+}
+
+.lock + li {
+    color: #91b8c9;
+}
+
+.candy + li {
+    color: #bcafc0
+}
+
+.candy ~ li {
+    color: rgb(97, 129, 153)
+}
+
