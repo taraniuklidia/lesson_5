@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "RoxboroughCF";
+    src: 
+        url(../fonts/RoxboroughCF-Medium.woff2) format("woff2"), 
+        url(../fonts/RoxboroughCF-Medium.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "RoxboroughCF";
+    src: 
+        url(../fonts/RoxboroughCF-Bold.woff2) format("woff2"), 
+        url(../fonts/RoxboroughCF-Bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "RoxboroughCF";
+    src: 
+        url(../fonts/RoxboroughCF-Light.woff2) format("woff2"), 
+        url(../fonts/RoxboroughCF-Light.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "RoxboroughCF";
+    src: 
+        url(../fonts/RoxboroughCF-MediumItalic.woff2) format("woff2"), 
+        url(../fonts/RoxboroughCF-MediumItalic.woff) format("woff");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Normaliq";
+    src: url(../fonts/Normaliq-Regular.woff2) format("woff2"),
+    url(../fonts/Normaliq-Regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Normaliq";
+    src: url(../fonts/Normaliq-Medium.woff2) format("woff2"),
+    url(../fonts/Normaliq-Medium.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Normaliq";
+    src: url(../fonts/Normaliq-Semibold.woff2) format("woff2"),
+    url(../fonts/Normaliq-Semibold.woff) format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Normaliq";
+    src: url(../fonts/Normaliq-Bold.woff2) format("woff2"),
+    url(../fonts/Normaliq-Bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Normaliq";
+    src: url(../fonts/Normaliq-Italic.woff2) format("woff2"),
+    url(../fonts/Normaliq-Italic.woff) format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
